@@ -30,7 +30,7 @@ In game consol: bind "MWHEELUP" "+jump"
 
 # Screenshots
 
-![alt logo](https://i.imgur.com/WrsOBp2.png)
+![alt logo](https://i.imgur.com/cr1WMuG.png)
 
 # Donate
 - Payoneer = badroiv@gmail.com
