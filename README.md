@@ -21,12 +21,8 @@ In game consol: bind "MWHEELUP" "+jump"
 # Connect society with badiiiro :kissing_heart:
 
 - 📱 Facebook: (https://www.facebook.com/badiiiro/)
-- 📷 Instagram: (https://www.instagram.com/badiiiro0/)
 - 🐤 Twitter: (https://twitter.com/badiiiro)
-- 🎥 Youtube: (https://www.youtube.com/badiiiro/)
-- 🎬 Twitch: (https://www.twitch.tv/badiiiro/)
-- 🎮 Steam: (https://steamcommunity.com/id/badiiiro/)
-- 💬 Discord Server: (https://discord.gg/Pzzsd3J)
+- Email: (badiiiro@pm.me)
 
 # Screenshots
 
