@@ -28,9 +28,6 @@ In game consol: bind "MWHEELUP" "+jump"
 
 ![alt logo](https://i.imgur.com/cr1WMuG.png)
 
-# Donate
-- Payoneer = badroiv@gmail.com
-
 # NOTE
 - I am NOT responsible for anything that can be made or any use of it! It was created for educational purpouses only (use it by your own risk), Thank you all.
 
