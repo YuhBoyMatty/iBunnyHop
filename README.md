@@ -22,7 +22,7 @@ In game consol: bind "MWHEELUP" "+jump"
 
 - 📱 Facebook: (https://www.facebook.com/badiiiro/)
 - 🐤 Twitter: (https://twitter.com/badiiiro)
-- Email: (badiiiro@pm.me)
+- Email: (badiiiro@gmail.com)
 
 # Screenshots
 
