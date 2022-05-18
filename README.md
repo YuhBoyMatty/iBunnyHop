@@ -2,7 +2,7 @@
 
 # iBunnyHop v0.1
 
-Auto bunny hop cheat for Counter-Strike 1.6
+Auto bunny-hop for Counter-Strike 1.6
 
 ## Installation [Windows](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
@@ -20,7 +20,6 @@ In game consol: bind "MWHEELUP" "+jump"
 
 # Connect society with badiiiro :kissing_heart:
 
-- 📱 Facebook: (https://www.facebook.com/badiiiro/)
 - 🐤 Twitter: (https://twitter.com/badiiiro)
 - Email: (badiiiro@gmail.com)
 
