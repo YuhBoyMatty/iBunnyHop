@@ -7,7 +7,7 @@ Basic BunnyHop Script edited by badiiiro for Counter-Strike 1.6
 
 using namespace std;
 
-char poweredBy[] = "badiiiro";
+char editedBy[] = "badiiiro";
 
 void setColor(int ForgC);
 void outputProgramFeatures();
@@ -39,7 +39,7 @@ void outputProgramFeatures()
 	setColor(12);  
 	cout << "================================================================================\n";
 	setColor(9);  
-	cout << "\t\t\t}--{+} iBunnyHop v0.1 {+}--{ \n\t\t\t}-{*} Coded By " << poweredBy << " {*}-{\n\n"; 
+	cout << "\t\t\t}--{+} iBunnyHop v0.1 {+}--{ \n\t\t\t}-{*} Coded By " << editedBy << " {*}-{\n\n"; 
 	setColor(12);  
 	cout << "================================================================================\n";
 	setColor(15);  	
