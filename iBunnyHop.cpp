@@ -33,7 +33,7 @@ void outputProgramFeatures()
 	// Write text to Readme.txt
 	ofstream writeToReadMe;
 	writeToReadMe.open ("Readme.txt");
-	writeToReadMe << "iBunnyHop v0.1\n\nThis script is undetectable in Valve Anti Cheat system because it doesnt access any memory within the game\nUsage: Press F5 = ON/OFF\nIn game consol: bind \"MWHEELUP\" \"+jump\"\n\nContact badiiiro at:\nFacebook: https://www.facebook.com/badiiiro/\nYoutube: https://www.youtube.com/badiiiro/\nSteam: https://steamcommunity.com/id/badiiiro/\nDiscord Server: https://discord.gg/Pzzsd3J\n\nAll rights reserved (C) badiiiro";
+	writeToReadMe << "iBunnyHop v0.1\n\nThis script is undetectable in Valve Anti Cheat system because it doesnt access any memory within the game\nUsage: Press F5 = ON/OFF\nIn game consol: bind \"MWHEELUP\" \"+jump\"\n";
 	writeToReadMe.close();
 	// Program features
 	setColor(12);  
